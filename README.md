@@ -1,4 +1,4 @@
-![Exp3_page-0002](https://github.com/user-attachments/assets/14db529b-6309-45e7-a944-96c8faa40775)# EXP-3
+# EXP-3
 EXPT NO: 3				STAIR CASE WIRING                     
 
  
